@@ -1,7 +1,7 @@
 👋 Hi, I’m @EsbonMigiro
 👀 I’m interested in web development.
-🌱 I’m currently learning about Web 3.0 technologies.
-💞️ I’m looking to collaborate on web development, machine learning, and data science projects.
+🌱 I'm a versatile full-stack developer proficient in Django, React, Node.js, and Go.
+💞️ I’m looking to collaborate on full-stack development projects.
 📫 How to reach me: You can email me at esbonmigiro@gmail.com.
 Feel free to reach out and connect! 😊
 
